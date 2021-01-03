@@ -13,7 +13,7 @@ $artigo = $obj_artigo->exibirArtigoPorId($_GET['id']);
 <html lang="pt-br">
 
 <head>
-    <title>Meu Blog - Curso WebApp PHP Alura</title>
+    <title>Meu Blog - Curso WebApp PHP Alura - Teste de Branch</title>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
